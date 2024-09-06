@@ -10,6 +10,13 @@ test("Edit card", async ({page}) => {
  
 })
 
+test("Delete card", async ({page}) => {
+    const kanban = new KanbanPage(page);
+    await page.goto('https://kanban-566d8.firebaseapp.com/');
+    await kanban.deleteKanbanCard();
+})
+
+
 test("Toggle dark mode", async ({page}) => {
     const kanban = new KanbanPage(page);
     await page.goto('https://kanban-566d8.firebaseapp.com/');

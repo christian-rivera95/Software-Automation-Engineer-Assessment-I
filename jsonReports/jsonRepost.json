@@ -1,7 +1,7 @@
 {
   "config": {
-    "configFile": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\playwright.config.ts",
-    "rootDir": "C:/Users/Acer/OneDrive/Desktop/Project/Playwright/Assessment/Software-Automation-Engineer-Assessment-I",
+    "configFile": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\playwright.config.ts",
+    "rootDir": "C:/Users/macab/Documents/Playwright/Assessment/Software-Automation-Engineer-Assessment-I",
     "forbidOnly": false,
     "fullyParallel": false,
     "globalSetup": null,
@@ -11,7 +11,7 @@
     "grepInvert": null,
     "maxFailures": 0,
     "metadata": {
-      "actualWorkers": 4
+      "actualWorkers": 5
     },
     "preserveOutput": "always",
     "reporter": [
@@ -39,13 +39,13 @@
     "quiet": false,
     "projects": [
       {
-        "outputDir": "C:/Users/Acer/OneDrive/Desktop/Project/Playwright/Assessment/Software-Automation-Engineer-Assessment-I/test-results",
+        "outputDir": "C:/Users/macab/Documents/Playwright/Assessment/Software-Automation-Engineer-Assessment-I/test-results",
         "repeatEach": 5,
         "retries": 0,
         "metadata": {},
         "id": "",
         "name": "",
-        "testDir": "C:/Users/Acer/OneDrive/Desktop/Project/Playwright/Assessment/Software-Automation-Engineer-Assessment-I",
+        "testDir": "C:/Users/macab/Documents/Playwright/Assessment/Software-Automation-Engineer-Assessment-I",
         "testIgnore": [],
         "testMatch": [
           "pomtest/test.test.ts"
@@ -56,7 +56,7 @@
     "shard": null,
     "updateSnapshots": "missing",
     "version": "1.46.1",
-    "workers": 4,
+    "workers": 8,
     "webServer": null
   },
   "suites": [
@@ -81,22 +81,22 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11185,
+                  "duration": 8564,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:45.560Z",
+                  "startTime": "2024-09-06T09:41:59.294Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card\\video.webm"
                     }
                   ]
                 }
@@ -113,22 +113,22 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 10352,
+                  "duration": 8432,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:45.547Z",
+                  "startTime": "2024-09-06T09:41:59.294Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat1\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat1\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat1\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat1\\video.webm"
                     }
                   ]
                 }
@@ -145,22 +145,22 @@
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 11153,
+                  "duration": 8714,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:45.536Z",
+                  "startTime": "2024-09-06T09:41:59.314Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat2\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat2\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat2\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat2\\video.webm"
                     }
                   ]
                 }
@@ -177,22 +177,22 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 11035,
+                  "duration": 8454,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:45.535Z",
+                  "startTime": "2024-09-06T09:41:59.292Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat3\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat3\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat3\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat3\\video.webm"
                     }
                   ]
                 }
@@ -209,22 +209,22 @@
                 {
                   "workerIndex": 4,
                   "status": "passed",
-                  "duration": 8300,
+                  "duration": 8641,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:57:04.462Z",
+                  "startTime": "2024-09-06T09:41:59.317Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat4\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat4\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat4\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Edit-card-repeat4\\video.webm"
                     }
                   ]
                 }
@@ -235,6 +235,177 @@
           "id": "c5e4df378fc3124ab935-82c6de4acb2f2dfc3ded",
           "file": "pomtest/test.test.ts",
           "line": 4,
+          "column": 5
+        },
+        {
+          "title": "Delete card",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 8129,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-06T09:42:08.169Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card\\video.webm"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "status": "passed",
+                  "duration": 7943,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-06T09:42:07.951Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat1\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat1\\video.webm"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "status": "passed",
+                  "duration": 8179,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-06T09:42:08.307Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat2\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat2\\video.webm"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "status": "passed",
+                  "duration": 8110,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-06T09:42:07.966Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat3\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat3\\video.webm"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "status": "passed",
+                  "duration": 8118,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-06T09:42:08.222Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat4\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Delete-card-repeat4\\video.webm"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "c5e4df378fc3124ab935-9a22162904d59bf5f594",
+          "file": "pomtest/test.test.ts",
+          "line": 13,
           "column": 5
         },
         {
@@ -252,22 +423,22 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5943,
+                  "duration": 4885,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:57.703Z",
+                  "startTime": "2024-09-06T09:42:16.304Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode\\video.webm"
                     }
                   ]
                 }
@@ -284,22 +455,22 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 5856,
+                  "duration": 4797,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:56.884Z",
+                  "startTime": "2024-09-06T09:42:15.899Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat1\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat1\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat1\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat1\\video.webm"
                     }
                   ]
                 }
@@ -316,22 +487,22 @@
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 6523,
+                  "duration": 4908,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:57.474Z",
+                  "startTime": "2024-09-06T09:42:16.492Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat2\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat2\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat2\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat2\\video.webm"
                     }
                   ]
                 }
@@ -348,22 +519,22 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 6428,
+                  "duration": 4807,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:56:57.384Z",
+                  "startTime": "2024-09-06T09:42:16.079Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat3\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat3\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat3\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat3\\video.webm"
                     }
                   ]
                 }
@@ -380,22 +551,22 @@
                 {
                   "workerIndex": 4,
                   "status": "passed",
-                  "duration": 5121,
+                  "duration": 4918,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-04T06:57:13.045Z",
+                  "startTime": "2024-09-06T09:42:16.345Z",
                   "attachments": [
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat4\\test-finished-1.png"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat4\\test-finished-1.png"
                     },
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Users\\Acer\\OneDrive\\Desktop\\Project\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat4\\video.webm"
+                      "path": "C:\\Users\\macab\\Documents\\Playwright\\Assessment\\Software-Automation-Engineer-Assessment-I\\test-results\\pomtest-test-Toggle-dark-mode-repeat4\\video.webm"
                     }
                   ]
                 }
@@ -405,7 +576,7 @@
           ],
           "id": "c5e4df378fc3124ab935-21b65f4ef9321e95e428",
           "file": "pomtest/test.test.ts",
-          "line": 13,
+          "line": 20,
           "column": 5
         }
       ]
@@ -413,9 +584,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-09-04T06:56:43.819Z",
-    "duration": 34605.055,
-    "expected": 10,
+    "startTime": "2024-09-06T09:41:58.517Z",
+    "duration": 23007.67,
+    "expected": 15,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
