@@ -26,4 +26,5 @@ test("Toggle Dark Mode", async ({page }) => {
     const kanban = new Kanban(page)
 
     await kanban.Toogle_Dark_Mode()
+    
 })

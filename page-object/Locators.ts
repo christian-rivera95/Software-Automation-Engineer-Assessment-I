@@ -443,6 +443,7 @@ class Kanban {
 
                             return false;
                             
+                            
                         }
                     }
                 }
