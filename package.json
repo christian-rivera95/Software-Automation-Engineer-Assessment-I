@@ -1,0 +1,22 @@
+{
+  "name": "software-automation-engineer-assessment-i",
+  "version": "1.0.0",
+  "description": "This coding quiz consists of a Playwright automation script task.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leo-Enamorado/Software-Automation-Engineer-Assessment-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leo-Enamorado/Software-Automation-Engineer-Assessment-I/issues"
+  },
+  "homepage": "https://github.com/Leo-Enamorado/Software-Automation-Engineer-Assessment-I#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
